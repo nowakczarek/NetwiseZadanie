@@ -21,5 +21,5 @@ Aplikacja konsolowa .NET, która pobiera losowy fakt o kotach z publicznego API 
 ---
 
 ## Jak uruchomić
-git clone https://github.com/nowakczarek/NetwiseZadanie
-cd NetwiseZadanie
+- git clone https://github.com/nowakczarek/NetwiseZadanie
+- cd NetwiseZadanie
